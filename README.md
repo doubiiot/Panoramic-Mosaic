@@ -1,6 +1,6 @@
 # Panoramic-Mosaic
 Panoramic Mosaic System Based on Hikvision Carema
-直接使用PPT来当做readme
+
 ![image](https://github.com/doubiiot/Panoramic-Mosaic/blob/master/ppt/%E5%B9%BB%E7%81%AF%E7%89%871.PNG)
 ![image](https://github.com/doubiiot/Panoramic-Mosaic/blob/master/ppt/%E5%B9%BB%E7%81%AF%E7%89%872.PNG)
 ![image](https://github.com/doubiiot/Panoramic-Mosaic/blob/master/ppt/%E5%B9%BB%E7%81%AF%E7%89%873.PNG)
